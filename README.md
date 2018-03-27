@@ -4,6 +4,12 @@
 |21/03/2018                 |1.0                             |Inserção da folha de estilo    |Renan e Rafael   |
 |25/03/2018                 |1.1                             |Adição da guia de estilo do Angular e do Python   |Rômulo e João Vítor  |
 
+# Sumário
+
+<ol>
+	<li>[Guia de estilo](1)
+	
+</ol>
 
 # Guia de Estilo
 ## 1. Objetivo
