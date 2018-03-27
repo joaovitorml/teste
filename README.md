@@ -7,7 +7,11 @@
 # Sumário
 
 <ol>
-	<li><a href="#Guia de Estilo">Guia de estilo</a>
+	<li><a href="#Objetivo">Objetivo</a></li>
+	<li><a href="#Organização do Documento">Organização do Documento</a></li>
+	<li><a href="#Guia de Estilo Geral">Guia de Estilo Geral</a></li>
+	<li><a href="#Guia de Estilo Angular">Guia de Estilo Angular</a></li>
+	<li><a href="#Referências">Referências</a></li>
 	
 </ol>
 
