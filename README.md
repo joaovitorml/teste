@@ -6,28 +6,32 @@
 
 # Sumário
 
-1. Objetivo
-2. Organização do documento
-3. Guia de Estilo Geral
-	3.1 Layout do Código
-	3.2 Tabs ou espaços?
-	3.3 Tamanho máximo da linha
-	3.4 Linhas em branco
-	3.5 Codificação do arquivo de origem
-	3.6 Imports
-	3.7 Espaços em branco
-	3.8 Comentários
-	3.9 Comentários em linha
-	3.10 Nomenclatura
-4. Guia de estilo Angular
-	4.1 Nomenclatura
-	4.2 Formatação
-	4.3 Imports
-	4.4 Estrutura de aplicação
-	4.5 Components
-	4.6 Directives
-	4.7 Services
-5. Referências
+<ol><li> Objetivo</li>
+<li> Organização do documento</li>
+<li> Guia de Estilo Geral</li>
+	<ol>
+	<li>Layout do Código</li>
+	<li>Tabs ou espaços?</li>
+	<li>Tamanho máximo da linha</li>
+	<li>Linhas em branco</li>
+	<li>Codificação do arquivo de origem</li>
+	<li>Imports</li>
+	<li>Espaços em branco</li>
+	<li>Comentários</li>
+	<li>Comentários em linha</li>
+	<li>Nomenclatura</li>
+		</ol>
+<li> Guia de estilo Angular</li>
+	<ol>
+	<li>Nomenclatura</li>
+	<li>Formatação</li>
+	<li>Imports</li>
+	<li>Estrutura de aplicação</li>
+	<li>Components</li>
+	<li>Directives</li>
+	<li>Services</li>
+	</ol>
+<li> Referências</li>
 
 
 # Guia de Estilo
