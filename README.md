@@ -16,7 +16,7 @@
 </ol>
 
 # Guia de Estilo
-## 1. Objetivo
+<span id="Objetivo">## 1. Objetivo</span>
 Este documento tem por finalidade esclarecer as formas de implementação
 do projeto. Aqui estarão expostas as maneiras de declarar de variáveis,
 definir de métodos, escrever comentários, entre outros.
@@ -381,7 +381,7 @@ export class HeroService {
 }
 ```
 
-## 5.0 Referências
+<span id="Referência">## 5.0 Referências</span>
 
 <ul>
 <li>[Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
