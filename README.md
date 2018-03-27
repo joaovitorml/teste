@@ -6,17 +6,32 @@
 
 # Sumário
 
-<ol>
-	<li><a href="#Objetivo">Objetivo</a></li>
-	<li><a href="#Organização do Documento">Organização do Documento</a></li>
-	<li><a href="#Guia de Estilo Geral">Guia de Estilo Geral</a></li>
-	<li><a href="#Guia de Estilo Angular">Guia de Estilo Angular</a></li>
-	<li><a href="#Referências">Referências</a></li>
-	
-</ol>
+1. Objetivo
+2. Organização do documento
+3. Guia de Estilo Geral
+	3.1 Layout do Código
+	3.2 Tabs ou espaços?
+	3.3 Tamanho máximo da linha
+	3.4 Linhas em branco
+	3.5 Codificação do arquivo de origem
+	3.6 Imports
+	3.7 Espaços em branco
+	3.8 Comentários
+	3.9 Comentários em linha
+	3.10 Nomenclatura
+4. Guia de estilo Angular
+	4.1 Nomenclatura
+	4.2 Formatação
+	4.3 Imports
+	4.4 Estrutura de aplicação
+	4.5 Components
+	4.6 Directives
+	4.7 Services
+5. Referências
+
 
 # Guia de Estilo
-<span id="Objetivo">## 1. Objetivo</span>
+## 1. Objetivo
 Este documento tem por finalidade esclarecer as formas de implementação
 do projeto. Aqui estarão expostas as maneiras de declarar de variáveis,
 definir de métodos, escrever comentários, entre outros.
@@ -381,7 +396,7 @@ export class HeroService {
 }
 ```
 
-<span id="Referência">## 5.0 Referências</span>
+## 5.0 Referências
 
 <ul>
 <li>[Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
