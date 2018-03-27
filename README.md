@@ -7,7 +7,7 @@
 # Sumário
 
 <ol>
-	<li>[Guia de estilo](1)
+	<li>[Guia de estilo](Objetivo)
 	
 </ol>
 
